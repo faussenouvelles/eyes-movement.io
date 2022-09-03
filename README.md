@@ -17,7 +17,7 @@ This was a great example of web developing using these three tools & languages.
                 <div class="ball"></div>
             </div>
         </div>
-        <script src="./eyes.js"></script>
+  
     </body>
 </html>
 <br>
